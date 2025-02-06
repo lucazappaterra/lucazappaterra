@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lucazappaterra
 - 🎓 I have a MSc in Physics.
 - 👀 I’m interested in technology, science, cars and cinema.
-- 🌱 I'm currently exploring the world of GenAI while working as Data Scientist / AI Engineer intern.
+- 🌱 I'm currently exploring the world of GenAI while working as a Data Scientist.
 - 📫 How to reach me: luca.zappaterra@me.com
 <!--- 💞️ I’m looking to collaborate on ...-->
 
